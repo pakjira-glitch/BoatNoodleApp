@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35913.81 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BoatNoodleApp", "BoatNoodleApp\BoatNoodleApp.csproj", "{97EB7F6D-A804-4A3E-AD5B-79C9EF133EB5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{97EB7F6D-A804-4A3E-AD5B-79C9EF133EB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97EB7F6D-A804-4A3E-AD5B-79C9EF133EB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97EB7F6D-A804-4A3E-AD5B-79C9EF133EB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97EB7F6D-A804-4A3E-AD5B-79C9EF133EB5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {761101D1-5818-4C2D-B8BF-492ECAC671C2}
+	EndGlobalSection
+EndGlobal
